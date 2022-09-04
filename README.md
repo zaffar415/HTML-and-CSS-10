@@ -1,4 +1,4 @@
-# HTML and CSS 9
+# HTML and CSS 10
 
 Practicing with HTML and css positions and to arrange the html layout and elements in the correct order as given in the image
 
@@ -19,9 +19,10 @@ With CSS, you can control the color, font, the size of text, the spacing between
 > - flex-box
 > - alignments
 > - Cards
-> - Forms
 
 
 Time Taken to complete this assignment 2 hour
+
+Preview Link [https://interior-design.netlify.app](https://interior-design.netlify.app)
 
 ![Screenshot](./thumbnail.png)
