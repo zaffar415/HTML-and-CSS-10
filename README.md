@@ -23,6 +23,6 @@ With CSS, you can control the color, font, the size of text, the spacing between
 
 Time Taken to complete this assignment 2 hour
 
-Preview Link [https://interior-design.netlify.app](https://interior-design.netlify.app)
+Preview Link [https://interior-design-html.netlify.app](https://interior-design-html.netlify.app)
 
 ![Screenshot](./thumbnail.png)
